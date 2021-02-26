@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Jogar Bola
+2. Ler
+
+
+* Mexer no pc
+* Ver série
